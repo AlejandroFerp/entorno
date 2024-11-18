@@ -20,7 +20,7 @@ En esta página web, exploraremos:
 - [Funcionamiento](funcionamiento.md): Descubre cómo funcionaban estas máquinas.
 - [Impacto](impacto.md): Analiza las consecuencias de estos avances en la sociedad del siglo XIX.
 
-![Telar mecánico](imagenes/telar.jpg)
+![Telar mecánico](telar.jpg)
 
 ---
 
